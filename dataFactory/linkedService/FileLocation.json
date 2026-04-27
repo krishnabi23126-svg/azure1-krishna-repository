@@ -1,0 +1,17 @@
+{
+	"name": "FileLocation",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "FileServer",
+		"typeProperties": {
+			"host": "C:\\Users\\Krishna\\Downloads\\AzureProject\\CRM_Sales_Opportunits",
+			"userId": "DESKTOP-I5RHQIK\\Krishna",
+			"encryptedCredential": "eyJDcmVkZW50aWFsSWQiOiI1Yzc4MjE2NC1lOTNmLTQ5MDUtODIyOS01ZGZmNTE1N2RhNDEiLCJWZXJzaW9uIjoiMi4wIiwiQ2xhc3NUeXBlIjoiTWljcm9zb2Z0LkRhdGFQcm94eS5Db3JlLkludGVyU2VydmljZURhdGFDb250cmFjdC5DcmVkZW50aWFsU1UwNkNZMTQifQ=="
+		},
+		"connectVia": {
+			"referenceName": "OnPrimetoAzureIntegrationRuntime",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}
