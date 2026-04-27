@@ -1,0 +1,6 @@
+{
+	"name": "onpremtoazureir",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
