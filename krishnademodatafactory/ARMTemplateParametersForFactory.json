@@ -1,0 +1,24 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "krishnademodatafactory"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"FileLocation_password": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://krishnastoragedemo.dfs.core.windows.net/"
+		},
+		"FileLocation_properties_typeProperties_host": {
+			"value": "C:\\Users\\Krishna\\Downloads\\AzureProject\\CRM_Sales_Opportunits"
+		},
+		"FileLocation_properties_typeProperties_userId": {
+			"value": "DESKTOP-I5RHQIK\\Krishna"
+		}
+	}
+}
