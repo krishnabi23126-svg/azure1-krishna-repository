@@ -1,0 +1,15 @@
+{
+	"name": "krishnademodatafactory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "76b54f07-5028-4faa-836f-29df341ef6a0",
+		"tenantId": "a2d47150-8b03-4e55-baa3-b0cf79c55b86"
+	}
+}
