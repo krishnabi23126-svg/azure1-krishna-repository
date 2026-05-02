@@ -33,3 +33,10 @@ To process raw sales data and transform it into analytics-ready format.
 - Integrate with Azure Data Factory
 - Load data into Data Lake (ADLS)
 - Build dashboards using Power BI
+
+- ## Output
+The final processed data is saved as:
+- output_summary.csv
+
+## Author
+Gopala Krishna – Data Engineer
